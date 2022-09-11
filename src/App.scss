@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:active {
+    color: #42a5f5;
+}
+
+.flatIcon {
+    font-size: 30px;
+}
